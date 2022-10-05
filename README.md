@@ -4,7 +4,9 @@
 
 > * C# 으로 설명을 한다고 하지만 Java하고 큰 차이는 없을 것 같으니 진행해보자!
 > * 책이 이해하기 쉽게 쓰여졌다고 했다. 
-> * 적절히 C# 코드를 Java 코드로 변경해가며 진행해보자! 😄
+> * C#으로 좀 이해하면서 보는게 나을 것 같다.
+> * 한번 다 이후에는 적절히 C# 코드를 Java 코드로 변경해가며 진행해보자! 😄
+> * `요약 내용은 목차, 단순 문장 정도만 아주 조금만 적고, 책 내용 외에 추가로 공부한 내용에 대해서만 상세히 적자!`
 
 * 저자: 나루세 마사노부
 * 옮김: 심효섭
@@ -54,9 +56,19 @@
 
 ## 기타
 
+### C#  강의 - 이것이 C#이다 - 저자: 박성현 
+
+* 책: http://www.yes24.com/Product/Goods/96674785
+
+* 동영상: https://www.youtube.com/watch?v=6MGe3wG8Fr4&list=PLVsNizTWUw7Eye-a7CY7f1zeLWJNWe163
+
+  
+
 ### C#  .gitignore 설정
 
 * https://gitignore.io 에서 `VisualStudioCode`, `VisualStudio`, `Rider`, `Ccharp`로 설정해서 git에서 관리하지 않을 파일 추가
+
+
 
 
 
